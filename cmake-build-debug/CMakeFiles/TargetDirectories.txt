@@ -1,0 +1,3 @@
+C:/Users/Manuel/CLionProjects/ClionSFML/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Manuel/CLionProjects/ClionSFML/cmake-build-debug/CMakeFiles/ClionSFML.dir
+C:/Users/Manuel/CLionProjects/ClionSFML/cmake-build-debug/CMakeFiles/rebuild_cache.dir
